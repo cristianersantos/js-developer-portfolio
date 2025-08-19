@@ -1,4 +1,4 @@
-# 🌐 Portfólio - Cristiane R dos Santos
+# 🌐 JS DEVELOPER Portfólio
 
 Este projeto é um **portfólio pessoal** desenvolvido em **HTML, CSS e JavaScript**, com dados dinâmicos carregados a partir de um arquivo **JSON**.  
 O objetivo é apresentar minhas habilidades, experiências, projetos e formas de contato de maneira interativa e responsiva.
