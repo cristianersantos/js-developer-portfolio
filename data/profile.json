@@ -41,17 +41,13 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (Upper Intermediate - B2)"    
+    "Inglês (Upper Intermediate - B2)"
+    
   ],
   "portfolio": [
     {
       "name": "Portfolio Pessoal",
-      "url": "https://github.com/cristianersantos Projeto-Afroturismo",
-      "github": true
-    },
-    {
-      "name": "Projeto Afroturismo",
-      "url": "https://github.com/cristianersantos/Projeto-Afroturismo.git",
+      "url": "https://cristianersantos.github.io/Portfolio-Novo/",
       "github": true
     },
     {
