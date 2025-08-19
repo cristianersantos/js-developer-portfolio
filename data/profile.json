@@ -1,78 +1,80 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
+  "name": "Cristiane R dos Santos",
+  "photo": "https://avatars.githubusercontent.com/u/113946475?v=4",
+  "job": "Front-end Developer",
   "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "phone": "(11) 98440-8669",
+  "email": "cristianeramoscr6@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "JAVA SCRIPT",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "VsCode",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
       },
       {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
-      "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização"
+      "Empatia e Orientação ao Cliente",
+      "Comunicação Clara (oral e escrita)",
+      "Adaptabilidade e Resiliência",
+      "Organização e gestão de processos"
     ]
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (Upper Intermediate - B2)"    
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Portfolio Pessoal",
+      "url": "https://github.com/cristianersantos Projeto-Afroturismo",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Projeto Afroturismo",
+      "url": "https://github.com/cristianersantos/Projeto-Afroturismo.git",
+      "github": true
+    },
+    {
+      "name": "Bootcamp Front-end DIO",
+      "url": "https://github.com/cristianersantos/Bootcamp-Frontend.git",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "AI TRAINNER / AI ANNOTATOR",
+      "period": "Freelance",
+      "description": "Colaboração como IA Annotator em um projeto global focado na curadoria e avaliação de respostas geradas por IA na empresa ALIGNERR."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "MANAGEMENT AND CONSULTANT",
+      "period": "2021 - 2024",
+      "description": "Gestão de criação e vendas pacotes turísticos personalizados, focando na otimização de operações e na criação de experiências memoráveis para clientes."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "SALES CONSULTANT",
+      "period": "2013 - 2028",
+      "description": "Gestão de Relacionamento com o Cliente (CRM),atendimento personalizado e suporte contínuo em todas as etapas da jornada do cliente, com foco em resolução de problemas e aumento da satisfação."
     }
   ]
 }
