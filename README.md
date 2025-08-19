@@ -29,7 +29,10 @@ O objetivo é apresentar minhas habilidades, experiências, projetos e formas de
 
 ---
 🖼️ Prévia do Projeto:
-👉 [Clique aqui para ver:](https://cristianersantos.github.io/js-developer-portfolio/)
+  
+👉 <a href="https://cristianersantos.github.io/js-developer-portfolio/" target="_blank">Clique aqui para ver</a>
+
+---
 
 📝 Licença
 
